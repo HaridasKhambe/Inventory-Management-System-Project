@@ -1,0 +1,9 @@
+product_id	nchar(20)	Unchecked
+idate	date	Unchecked
+product_name	nchar(30)	Unchecked
+description	nchar(50)	Checked
+incoming_quantity	nchar(10)	Checked
+outgoing_quantity	nchar(10)	Checked
+avaible_quantity	nchar(10)	Checked
+price	nchar(10)	Checked
+		Unchecked

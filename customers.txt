@@ -1,0 +1,9 @@
+customer_id	nchar(10)	Unchecked
+cdate	date	Checked
+customer_name	nchar(30)	Checked
+mobile	nchar(12)	Checked
+model	nchar(40)	Checked
+problem	nchar(60)	Checked
+solution	nchar(60)	Checked
+price	nchar(10)	Checked
+		Unchecked
