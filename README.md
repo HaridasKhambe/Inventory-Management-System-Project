@@ -6,9 +6,9 @@ This is my one of Visual Basic project on inventory management system app that I
 This application is created by using "Visual Basic" language and I am managing its data using "Microsoft SQL Server" on local database.
 
 There are basically 4 modules :
-LOGIN
-INVENTORY
-STOCK
-CUSTOMER 
+1. LOGIN
+2. INVENTORY
+3. STOCK
+4. CUSTOMER 
 
 The application provides some good features to manage inventory like add product, search a product, update product and delete product then we can also add customers, search for customer, update and delete them. so it helps a lot to the owners of shops to manage thier data instead of conventional method.
